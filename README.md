@@ -4,12 +4,10 @@ A simple backdoor to launch commands on another remote machine.
 
 ### Prerequisites
 
-Machines don't have to be under a nat network.
+- Machines don't have to be under a nat network
 
-Run on linux so.
-```
-python
-```
+- Python 3.6
+
 
 ### Installing
 
