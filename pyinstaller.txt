@@ -1,0 +1,8 @@
+installre:
+-pyinstaller
+-visual studio windows
+
+comando per creare l'exe da eseguire come amministratore
+pyinstaller --onefile --windowed --icon=path dell icona file.py
+
+icona convertita con: quick_any2Ico
